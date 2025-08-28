@@ -1,0 +1,49 @@
+
+body {
+            font-family: 'Courier New', Courier, monospace, sans-serif;
+            background-image:url("https://wallpapers.com/images/hd/good-background-7eawpl216o09glsb.jpg");
+            background-size: auto;    
+        background-repeat: repeat; 
+
+    background-position: center;  
+display: flex;
+  justify-content: center;
+  align-items: center;  
+  min-height: 100vh;
+  flex-direction: column;
+  text-align: center;             
+}
+
+        h1 {
+            color: #e0dcdc; text-shadow: 1px 1px 5px rgb(0, 0, 0); 
+            
+        }
+        h2{color: #dad7d7;}
+        ul{color: #e0dcdc;}
+        li{color: #e0dcdc;}
+        ol{color: #e0dcdc;}
+
+        p {
+            line-height: 1.5; color: white;
+        }
+        table, th, td {
+        color: white;           
+        border: 1px solid white;
+        }
+
+        .highlight {
+            background-color: rgb(155, 56, 185);
+        }
+        .my-box {
+  border: 1px solid #f30000;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.red-text {
+  color: red;
+}
+
+.bold-text {
+  font-weight: bold;
+}
